@@ -2,6 +2,10 @@
 
 
 
+![pass-generator-image](https://user-images.githubusercontent.com/129136870/233520447-39e17e5d-6439-4644-a4de-4b059d339c5a.png)
+
+
+
 
 
 AS AN employee with access to sensitive data
